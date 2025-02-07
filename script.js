@@ -5,7 +5,7 @@ const messages = [
     "Ekda Aikto",
     "Listen na Pillu",
     "Come tar ekda",
-    "Bub Chub"
+    "Bub Chub",
 ];
 
 let messageIndex = 0;
