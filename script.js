@@ -1,9 +1,11 @@
 const messages = [
     "Suno tar Bub?",
     "Please Booku",
+    "A g Beba",
     "Ekda Aikto",
     "Listen na Pillu",
-    "Come tar ekda"
+    "Come tar ekda",
+    "Bub Chub"
 ];
 
 let messageIndex = 0;
